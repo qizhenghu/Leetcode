@@ -42,7 +42,7 @@ class TwoSumII{
     
     /** Add the number to an internal data structure.. */
     public void add(int number) {
-        if(map.contains(number)){
+        if(map.containsKey(number)){
           map.put(number, map.get(number)+1);
         }else{
           map.put(number, 1);
@@ -57,7 +57,7 @@ class TwoSumII{
           if(num1 == num2){
             if(map.get(num1) >=2) return true;
           }else{
-            if(map.contains(num2)) return true;
+            if(map.containsKey(num2)) return true;
           }
         }
         return false;
