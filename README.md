@@ -1,5 +1,5 @@
 # Leetcode
-###### 1 - Two Sum (HashMap)
+###### 1 - [Two Sum](https://leetcode.com/problems/two-sum/description/) \(HashMap\)
 ###### 3 - Longest Substring Without Repating Characters (HashSet, Two Pointers)
 ###### 5 - Longest Palindromic Substring (Dynamic Programming)
 ###### 7 - Reverse Integer
