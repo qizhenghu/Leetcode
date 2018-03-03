@@ -17,11 +17,11 @@
 ###### 24 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) (Dynamic Programming)
 ###### 92 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) (Linked List)
 ###### 151 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) 
-###### 167 - Two Sum II - Input array is sorted (Two Pointer)
-###### 170 - Two Sum III - Data structure desing (Read heavy, Write heavy)
-###### 189 - Rotate Array
-###### 190 - Reverse Bits
-###### 206 - Reverse Linked List
-###### 237 - Delete Node in a Linked List
-###### 557 - Reverse Words in a String III
-###### 653 - Two Sum IV - Input is a BST (Tree Traversal, BST)
+###### 167 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)(Two Pointer)
+###### 170 - [Two Sum III - Data structure desing](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) (Read heavy, Write heavy)
+###### 189 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
+###### 190 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
+###### 206 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+###### 237 - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+###### 557 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+###### 653 - [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) (Tree Traversal, BST)
