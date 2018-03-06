@@ -16,6 +16,7 @@
 ###### 21 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (Linked List)
 ###### 22 - [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
 ###### 24 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) (Dynamic Programming)
+###### 26 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)(Two Pointers)
 ###### 92 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) (Linked List)
 ###### 151 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) 
 ###### 167 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)(Two Pointer)
