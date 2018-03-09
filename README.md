@@ -18,6 +18,8 @@
 ###### 24 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) (Dynamic Programming)
 ###### 26 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)(Two Pointers)
 ###### 27 - [Remove Element](https://leetcode.com/problems/remove-element/description/)(Two Pointers)
+###### 29 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
+###### 33 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 ###### 92 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) (Linked List)
 ###### 151 - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) 
 ###### 167 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)(Two Pointer)
